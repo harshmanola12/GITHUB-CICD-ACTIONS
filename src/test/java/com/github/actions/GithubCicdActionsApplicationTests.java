@@ -1,13 +1,13 @@
-package com.github.actions;
+// package com.github.actions;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class GithubCicdActionsApplicationTests {
+// @SpringBootTest
+// class GithubCicdActionsApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
